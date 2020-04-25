@@ -16,7 +16,7 @@
             *> setup the procedure division (like 'main' function)
             PROCEDURE DIVISION.
 
-              *> print a string
-              DISPLAY FULL-NAME.
+            *> print a string
+            DISPLAY FULL-NAME.
             *> end our program
             STOP RUN.
